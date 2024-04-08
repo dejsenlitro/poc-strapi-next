@@ -13,7 +13,7 @@ export default async function News() {
 
   return (
     <main className="p-24">
-      <h1 className="text-2xl font-bold mb-9">To so novice</h1>
+      <h1 className="text-2xl font-bold mb-9">To so dev novice</h1>
 
       <div className="">
         <ul>
